@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkManager Sample</string>
+    <string name="onetimework">OneTime Work</string>
+    <string name="periodic">Periodic Work Button</string>
+    <string name="chainable_work">Chainable Work Button</string>
+    <string name="parallel">Parallel Work Button</string>
+    <string name="cancel">Cancel Periodic Work Button</string>
+    <string name="constraints">Work with Constraints  Button</string>
+    <string name="work_with_data">Work With Data</string>
+    <string name="msg">Msg From Worker</string>
+</resources>
