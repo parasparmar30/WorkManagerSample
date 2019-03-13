@@ -1,3 +1,4 @@
 # WorkManager Example Andorid.
 
-How to use WorkManager in Android. 
+Showing how work manager works.
+
